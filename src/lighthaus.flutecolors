@@ -1,0 +1,37 @@
+" Lighthaus Color theme for Fluent Terminal
+" GIT: https://github.com/lighthaus-theme/fluentterminal
+" Author: Adhiraj Sirohi (https://github.com/brutuski)
+"         Vasundhara Sharma (https://github.com/vasundhasauras)
+
+" Copyright © 2020-Present Lighthaus Theme
+" Copyright © 2020-Present Adhiraj Sirohi
+" Copyright © 2020-Present Vasundhara Sharma
+
+
+{
+	"Name": "Lighthaus",
+	"Author": "Adhiraj Sirohi, Vasundhara Sharma",
+	"Colors": {
+		"Foreground": "#FFEE79",
+		"Background": "#18191E",
+		"Cursor": "#FFFF00",
+		"CursorAccent": "#FFFF00",
+		"Selection": "#FF4D00",
+		"Black": "#18191E",
+		"Red": "#FC2929",
+		"Green": "#44B273",
+		"Yellow": "#E25600",
+		"Blue": "#1D918B",
+		"Magenta": "#D16BB7",
+		"Cyan": "#00BFA4",
+		"White": "#CCCCCC",
+		"BrightBlack": "#21252D",
+		"BrightRed": "#FF5050",
+		"BrightGreen": "#50C16E",
+		"BrightYellow": "#ED722E",
+		"BrightBlue": "#47A8A1",
+		"BrightMagenta": "#D68EB2",
+		"BrightCyan": "#5AD1AA",
+		"BrightWhite": "#FFFADE"
+	}
+}
